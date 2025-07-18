@@ -68,6 +68,5 @@ All visualizations update dynamically when filters are applied.
 
 ## 📬 Contact Me
 
-- Name: Ruqaya Mohammed  
 - LinkedIn: [ruqaya-sql](http://www.linkedin.com/in/ruqaya-sql)  
 - Email: mm.rr12345.com@gmail.com
